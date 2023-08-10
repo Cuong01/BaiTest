@@ -164,6 +164,7 @@ li {
 .frame4 h2 {
     padding-left: 20px;
 }
+
 .item2 {
     padding: 10px 0;
 }
@@ -210,4 +211,35 @@ li {
     background-color: blue;
     color: white;
     border-radius: 5px;
+}
+.footer {
+    background-color: blue;
+    color: white;
+    display: flex;
+    padding: 20px 100px;
+}
+.LH1 {
+    width: 40%;
+    padding: 20px;
+}
+.frame5 {
+    display: flex;
+    padding-bottom: 30px;
+    align-items: center;
+}
+.frame5 p {
+    padding-left: 20px;
+}
+.LH2 {
+    width: 20%;
+    padding: 100px 20px 0px 20px;
+}
+.LH2 h3 {
+    padding: 20px 0;
+}
+.icon2 {
+    margin: 0 10px;
+    padding: 5px;
+    border-radius: 50%;
+    border: 2px solid white;
 }

@@ -241,7 +241,52 @@
         </div>
     </div>
     <div class="footer">
-
+        <div class="LH1">
+            <img src="../LOGO-MIRAWAY_1.svg" alt="" width="300px">
+            <div>
+                <h3>CÔNG TY CỔ PHẦN MIRAWAY GIẢI PHÁP CÔNG NGHỆ</h3>
+                <div class="frame5">
+                    <i class="fa-solid fa-location-dot"> </i>
+                    <p>VP Tại Hà Nội: Tầng 4 - Tòa nhà GTC, Số 69, phố Tố Hữu, Vạn Phúc, Hà Đông, Hà Nội</p>
+                </div>
+                <div class="frame5">
+                    <i class="fa-solid fa-location-dot"> </i>
+                    <p>VP Tại HCM: Số 52B, Nguyễn Bỉnh Khiêm, P. Đa Kao, Quận 1, TP.Hồ Chí Minh</p>
+                </div>
+                <div class="frame5">
+                    <i class="fa-solid fa-phone"></i>
+                    <p>Tel: 02436436999</p>
+                </div>
+                <div class="frame5">
+                    <i class="fa-solid fa-mobile-screen-button"> </i>
+                    <p>Hotline tư vấn 24/7: 0981 350 960</p>
+                </div>
+                <div class="frame5">
+                    <i class="fa-solid fa-envelope"> </i>
+                    <p>contact@miraway.vn</p>
+                </div>
+            </div>
+        </div>
+        <div class="LH2">
+            <h3>Giới thiệu Miraway</h3>
+            <h3>Cơ hội nghề nghiệp</h3>
+            <h3>Lĩnh vực hoạt động</h3>
+            <h3>Tin tức & hoạt động</h3>
+            <h3>Liên hệ</h3>
+        </div>
+        <div class="LH2">
+            <h3>Chính sách bảo mật</h3>
+            <h3>Điều khoản sử dụng</h3>
+        </div>
+        <div class="LH2">
+            <h3>Mạng xã hội</h3>
+            <div class="all_icon">
+                <div class="icon2"><i class="fa-brands fa-youtube"> </i></div>
+                <div class="icon2"><i class="fa-brands fa-facebook"> </i></div>
+                <div class="icon2"><i class="fa-brands fa-linkedin-in"> </i></div>
+                <div class="icon2">Zalo</div>
+            </div>
+        </div>
     </div>
 
 </body>
