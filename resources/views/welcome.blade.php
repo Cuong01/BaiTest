@@ -232,6 +232,16 @@
                 </div>
             </div>
         </div>
+        <div class="register_email">
+            <h1>Đăng ký xem bài viết mới</h1>
+            <div class="bag3">
+                <input type="text" placeholder="Email">
+                <div class="button_dk_1">Đăng ký</div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+
     </div>
 
 </body>

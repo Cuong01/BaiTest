@@ -180,4 +180,34 @@ li {
 }
 .tag1 h3 {
     margin-right: 20px;
+    border: 1px solid #b7b7b7;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.register_email {
+    height: 280px;
+    margin: 100px;
+    text-align: center;
+    border: 1px solid #b7b7b7;
+    border-radius: 10px;
+    padding: 40px 20px;
+}
+.bag3 {
+    display: flex;
+    padding: 50px;
+    width: 100%;
+    justify-content: center;
+}
+.bag3 input {
+    width: 50%;
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.button_dk_1 {
+    width: 30%;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
 }
